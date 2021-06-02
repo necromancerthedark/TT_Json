@@ -5,42 +5,51 @@
       {
           "Code": "KCS-601",
           "Name": "Software Engineering",
-          "Link": "https://zoom.us/j/94014564945?pwd=Y0hIUHRuWkpWWktCMVc5alJIWTZJZz09"
+          "Link": "https://zoom.us/j/94014564945?pwd=Y0hIUHRuWkpWWktCMVc5alJIWTZJZz09",
+          "Profile_pic": "https://lh3.googleusercontent.com/a-/AOh14GiT9I-X64fB8NjRq2L_39DPAm3hwM-01gnmZfMs=s32-c"
       },
       {
           "Code": "KCS-602",
           "Name": "Web Technology",
-          "Link": "https://zoom.us/j/5913271434?pwd=SDlnVXdOVHVheGxnSEl2SW5QaWc4UT09"
+          "Link": "https://zoom.us/j/5913271434?pwd=SDlnVXdOVHVheGxnSEl2SW5QaWc4UT09",
+          "Profile_pic":"https://lh3.googleusercontent.com/-XdUIqdMkCWA/AAAAAAAAAAI/AAAAAAAAAAA/4252rscbv5M/s32-c-fbw=1/photo.jpg"
+
       },
       {
           "Code": "KCS-603",
           "Name": "Computer Networks",
-          "Link": "https://zoom.us/j/2534821536?pwd=U0xoVmd4QjI0U2V3QlhZR3NtNS9aZz09"
+          "Link": "https://zoom.us/j/2534821536?pwd=U0xoVmd4QjI0U2V3QlhZR3NtNS9aZz09",
+          "Profile_pic":"https://lh3.googleusercontent.com/a-/AOh14GjuFKjghMYe3kTykF1exzCrpYdkUO8yUcuYwFAX=s32-c"
       },
       {
           "Code": "KCS-651",
           "Name": "Software Engineering Lab",
-          "Link": "https://us04web.zoom.us/j/9313536859?pwd=NDdNV2xycGlBYUU3NVdsS3BmalU2Zz09"
+          "Link": "https://us04web.zoom.us/j/9313536859?pwd=NDdNV2xycGlBYUU3NVdsS3BmalU2Zz09",
+          "Profile_pic" :"https://lh3.googleusercontent.com/-XdUIqdMkCWA/AAAAAAAAAAI/AAAAAAAAAAA/4252rscbv5M/s32-c-fbw=1/photo.jpg"
       },
       {
           "Code": "KCS-652",
           "Name": "Web Technology Lab",
-          "Link": "https://zoom.us/j/2471794873?pwd=cnk1elBXYUI3ZzdweGJmMEpxQzU1UT09"
+          "Link": "https://zoom.us/j/2471794873?pwd=cnk1elBXYUI3ZzdweGJmMEpxQzU1UT09",
+          "Profile_pic" :"https://lh3.googleusercontent.com/-XdUIqdMkCWA/AAAAAAAAAAI/AAAAAAAAAAA/4252rscbv5M/s32-c-fbw=1/photo.jpg"
       },
       {
           "Code": "KCS-653",
           "Name": "Computer Networks Lab",
-          "Link": ""
+          "Link": "",
+          "Profile_pic" :"https://lh3.googleusercontent.com/-XdUIqdMkCWA/AAAAAAAAAAI/AAAAAAAAAAA/4252rscbv5M/s32-c-fbw=1/photo.jpg"
       },
       {
           "Code": "KOE-068",
           "Name": "Software Project Management",
-          "Link": "https://us05web.zoom.us/j/6411570773?pwd=Z3dSazRoTi92UDZpUml3dGZ0cFpNZz09"
+          "Link": "https://us05web.zoom.us/j/6411570773?pwd=Z3dSazRoTi92UDZpUml3dGZ0cFpNZz09",
+          "Profile_pic" :"https://lh6.googleusercontent.com/-P4KzHlnI8UQ/AAAAAAAAAAI/AAAAAAAABws/mkltSmRBafI/s32-c/photo.jpg"
       },
       {
           "Code": "KCS-062",
           "Name": "Image Processing",
-          "Link": "https://zoom.us/j/2575107643?pwd=V3lzQ1R1aFFaMDlqMHJZbXVwSG0rdz09"
+          "Link": "https://zoom.us/j/2575107643?pwd=V3lzQ1R1aFFaMDlqMHJZbXVwSG0rdz09",
+          "Profile_pic" :"https://lh3.googleusercontent.com/a-/AOh14GjzAyo7btr5VOWWlLfPBta-Vd2Vr87xakm9i8P8=s32-c"
       }
   ]
 }
