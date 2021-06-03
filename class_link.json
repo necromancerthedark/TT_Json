@@ -48,8 +48,8 @@
       {
           "Code": "KCS-061",
           "Name": "Big Data",
-          "Link": "https://zoom.us/j/2575107643?pwd=V3lzQ1R1aFFaMDlqMHJZbXVwSG0rdz09",
-          "Profile_pic" :"https://lh3.googleusercontent.com/a-/AOh14GjzAyo7btr5VOWWlLfPBta-Vd2Vr87xakm9i8P8=s32-c"
+          "Link": "https://zoom.us/j/5687381032?pwd=V0E4aXlkeXNBei9LTmR0S00vdnhxdz09",
+          "Profile_pic" :"https://lh3.googleusercontent.com/-XdUIqdMkCWA/AAAAAAAAAAI/AAAAAAAAAAA/4252rscbv5M/s32-c-fbw=1/photo.jpg"
       },
       {
           "Code": "KCS-062",
@@ -60,8 +60,14 @@
       {
           "Code": "KCS-063",
           "Name": "Data Compression",
-          "Link": "https://zoom.us/j/2575107643?pwd=V3lzQ1R1aFFaMDlqMHJZbXVwSG0rdz09",
-          "Profile_pic" :"https://lh3.googleusercontent.com/a-/AOh14GjzAyo7btr5VOWWlLfPBta-Vd2Vr87xakm9i8P8=s32-c"
+          "Link": "https://us04web.zoom.us/j/74194207679?pwd=YjJDdkJ2U1RyaUlXcjU5SFRhL0E2Zz09",
+          "Profile_pic" :"https://lh3.googleusercontent.com/-XdUIqdMkCWA/AAAAAAAAAAI/AAAAAAAAAAA/4252rscbv5M/s32-c-fbw=1/photo.jpg"
+      },
+      {
+          "Code": "KNC-601",
+          "Name": "Constitution of India",
+          "Link": "https://us02web.zoom.us/j/8490675393?pwd=Q1pNN3ltYVgrWU04eGRrRXBUZW1MUT09",
+          "Profile_pic" :"https://lh3.googleusercontent.com/-XdUIqdMkCWA/AAAAAAAAAAI/AAAAAAAAAAA/4252rscbv5M/s32-c-fbw=1/photo.jpg"
       }
   ]
 }
