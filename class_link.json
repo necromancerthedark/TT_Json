@@ -86,6 +86,18 @@
           "Name": "Constitution of India",
           "Link": "https://us02web.zoom.us/j/8490675393?pwd=Q1pNN3ltYVgrWU04eGRrRXBUZW1MUT09",
           "Profile_pic" :"https://lh3.googleusercontent.com/-XdUIqdMkCWA/AAAAAAAAAAI/AAAAAAAAAAA/4252rscbv5M/s32-c-fbw=1/photo.jpg"
+      },
+      {
+          "Code": "SS-II",
+          "Name": "Soft Skills",
+          "Link": "https://us05web.zoom.us/j/4256820939?pwd=cEk2MWRNMzFQeGIyaUZhNWRibTJlUT09",
+          "Profile_pic" :"https://lh3.googleusercontent.com/-XdUIqdMkCWA/AAAAAAAAAAI/AAAAAAAAAAA/4252rscbv5M/s32-c-fbw=1/photo.jpg"
+      },
+      {
+          "Code": "AP-II",
+          "Name": "Aptitude",
+          "Link": "https://zoom.us/j/5131653943?pwd=TFZkMXEraWVsSlFRTkRMdjBoZW1kdz09",
+          "Profile_pic" :"https://lh3.googleusercontent.com/-XdUIqdMkCWA/AAAAAAAAAAI/AAAAAAAAAAA/4252rscbv5M/s32-c-fbw=1/photo.jpg"
       }
   ]
 }
