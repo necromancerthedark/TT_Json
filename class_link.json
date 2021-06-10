@@ -1,9 +1,15 @@
 {
   "status": "ok",
-  "total_class": 16,
+  "total_class": 17,
   "Class_List": [
       {
-          "Code": "KCS-601",
+          "Code": "KCS-601 (CS-61/62)",
+          "Name": "Software Engineering",
+          "Link": "https://zoom.us/j/92838634943?pwd=UzI0RUlZOEI4SjByMFMrc1dMb0RIUT09",
+          "Profile_pic": "https://lh3.googleusercontent.com/a-/AOh14GiT9I-X64fB8NjRq2L_39DPAm3hwM-01gnmZfMs=s32-c"
+      },
+      {
+          "Code": "KCS-601 (CS-63/64)",
           "Name": "Software Engineering",
           "Link": "https://zoom.us/j/94014564945?pwd=Y0hIUHRuWkpWWktCMVc5alJIWTZJZz09",
           "Profile_pic": "https://lh3.googleusercontent.com/a-/AOh14GiT9I-X64fB8NjRq2L_39DPAm3hwM-01gnmZfMs=s32-c"
