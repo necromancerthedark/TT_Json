@@ -1,0 +1,90 @@
+{
+  "status": "ok",
+  "total_class": 14,
+  "Class_List": [
+    {
+      "Code": "KCS-401 (CS-41/42)",
+      "Name": "Operating System (Lecture)",
+      "Link": "https://us02web.zoom.us/j/3361033603?pwd=cXNvTWQyUHN1ZHRQOFFDVHNIUGxZdz09#success",
+      "Profile_pic": "http://srmcem.ac.in/img/ITFaculty/umesh.jpg"
+    },
+    {
+      "Code": "KCS-402 (CS-41/42)",
+      "Name": "Theory of Automata (Lecture)",
+      "Link": "https://us04web.zoom.us/j/9313536859?pwd=NDdNV2xycGlBYUU3NVdsS3BmalU2Zz09#success",
+      "Profile_pic": "http://srmcem.ac.in/img/CSFaculty/SandeepKumarDubey.jpg"
+    },
+    {
+      "Code": "KCS-403 (CS-41/42)",
+      "Name": "Microprocessor (Lecture)",
+      "Link": "https://zoom.us/j/2808944302?pwd=czBPeitUaTRSWDMxWTlLcUFvSy9qdz09#success",
+      "Profile_pic": "https://lh3.googleusercontent.com/-XdUIqdMkCWA/AAAAAAAAAAI/AAAAAAAAAAA/4252rscbv5M/s32-c-fbw=1/photo.jpg"
+    },
+    {
+      "Code": "KNC-401 (CS-41/42)",
+      "Name": "Computer System Security",
+      "Link": "https://us04web.zoom.us/j/2273977497?pwd=NnN5Mlo5VUpYUEczSjZzZXJpdWNrQT09#success",
+      "Profile_pic": "https://lh3.googleusercontent.com/-XdUIqdMkCWA/AAAAAAAAAAI/AAAAAAAAAAA/4252rscbv5M/s32-c-fbw=1/photo.jpg"
+    },
+    {
+      "Code": "KCS-403 (CS-41/42)",
+      "Name": "Microprocessor (Tutorial)",
+      "Link": "https://zoom.us/j/2808944302?pwd=czBPeitUaTRSWDMxWTlLcUFvSy9qdz09#success",
+      "Profile_pic": "https://lh3.googleusercontent.com/-XdUIqdMkCWA/AAAAAAAAAAI/AAAAAAAAAAA/4252rscbv5M/s32-c-fbw=1/photo.jpg"
+    },
+    {
+      "Code": "KCS-402 (CS-41/42)",
+      "Name": "Theory of Automata (Tutorial)",
+      "Link": "https://us04web.zoom.us/j/9313536859?pwd=NDdNV2xycGlBYUU3NVdsS3BmalU2Zz09#success",
+      "Profile_pic": "http://srmcem.ac.in/img/CSFaculty/SandeepKumarDubey.jpg"
+    },
+    {
+      "Code": "KCS-401 (CS-41/42)",
+      "Name": "Operating System (Tutorial)",
+      "Link": "https://us02web.zoom.us/j/3361033603?pwd=cXNvTWQyUHN1ZHRQOFFDVHNIUGxZdz09#success",
+      "Profile_pic": "http://srmcem.ac.in/img/ITFaculty/umesh.jpg"
+    },
+    {
+      "Code": "KCS-453",
+      "Name": "Python Lab",
+      "Link": "https://us04web.zoom.us/j/74522427376?pwd=ajNKTExWRUdmZk40azA1WDN0anpCUT09#success",
+      "Profile_pic": "http://srmcem.ac.in/img/ITFaculty/SapnaPal.png"
+    },
+    {
+      "Code": "KCS-452 (CS-41/42)",
+      "Name": "MicroProcessor Lab",
+      "Link": "https://zoom.us/j/2575107643?pwd=Rkd2S1JXQ3I2WTNDMjkwYTAyWC9QUT09#success",
+      "Profile_pic": "https://lh3.googleusercontent.com/-XdUIqdMkCWA/AAAAAAAAAAI/AAAAAAAAAAA/4252rscbv5M/s32-c-fbw=1/photo.jpg"
+    },
+    {
+      "Code": "KCS-451 (CS-41/42)",
+      "Name": "OS Lab",
+      "Link": "https://zoom.us/j/5687381032?pwd=V0E4aXlkeXNBei9LTmR0S00vdnhxdz09#success",
+      "Profile_pic": "https://lh3.googleusercontent.com/-XdUIqdMkCWA/AAAAAAAAAAI/AAAAAAAAAAA/4252rscbv5M/s32-c-fbw=1/photo.jpg"
+    },
+    {
+      "Code": "KCS-451 (CS-41/42)",
+      "Name": "Energy Science (Lecture)",
+      "Link": "",
+      "Profile_pic": "https://lh3.googleusercontent.com/-XdUIqdMkCWA/AAAAAAAAAAI/AAAAAAAAAAA/4252rscbv5M/s32-c-fbw=1/photo.jpg"
+    },
+    {
+      "Code": "KCS-451 (CS-41/42)",
+      "Name": "Energy Science (Tutorial)",
+      "Link": "",
+      "Profile_pic": "https://lh3.googleusercontent.com/-XdUIqdMkCWA/AAAAAAAAAAI/AAAAAAAAAAA/4252rscbv5M/s32-c-fbw=1/photo.jpg"
+    },
+    {
+      "Code": "KAS-401 (CS-41/42)",
+      "Name": "Technical Communication (Lecture)",
+      "Link": "",
+      "Profile_pic": "https://lh3.googleusercontent.com/-XdUIqdMkCWA/AAAAAAAAAAI/AAAAAAAAAAA/4252rscbv5M/s32-c-fbw=1/photo.jpg"
+    },
+    {
+      "Code": "KAS-401 (CS-41/42)",
+      "Name": "Technical Communication (Tutorial)",
+      "Link": "",
+      "Profile_pic": "https://lh3.googleusercontent.com/-XdUIqdMkCWA/AAAAAAAAAAI/AAAAAAAAAAA/4252rscbv5M/s32-c-fbw=1/photo.jpg"
+    }
+  ]
+}
