@@ -1,109 +1,114 @@
 {
-  "status": "ok",
-  "total_class": 17,
-  "Class_List": [
-      {
-          "Code": "KCS-601 (CS-61/62)",
-          "Name": "Software Engineering",
-          "Link": "https://zoom.us/j/92838634943?pwd=UzI0RUlZOEI4SjByMFMrc1dMb0RIUT09",
-          "Profile_pic": "https://lh3.googleusercontent.com/a-/AOh14GiT9I-X64fB8NjRq2L_39DPAm3hwM-01gnmZfMs=s32-c"
-      },
-      {
-          "Code": "KCS-601 (CS-63/64)",
-          "Name": "Software Engineering",
-          "Link": "https://zoom.us/j/94014564945?pwd=Y0hIUHRuWkpWWktCMVc5alJIWTZJZz09",
-          "Profile_pic": "https://lh3.googleusercontent.com/a-/AOh14GiT9I-X64fB8NjRq2L_39DPAm3hwM-01gnmZfMs=s32-c"
-      },
-      {
-          "Code": "KCS-602",
-          "Name": "Web Technology",
-          "Link": "https://zoom.us/j/5913271434?pwd=SDlnVXdOVHVheGxnSEl2SW5QaWc4UT09",
-          "Profile_pic":"http://srmcem.ac.in/img/ITFaculty/Dishant.jpg"
-
-      },
-      {
-          "Code": "KCS-603",
-          "Name": "Computer Networks",
-          "Link": "https://zoom.us/j/2534821536?pwd=U0xoVmd4QjI0U2V3QlhZR3NtNS9aZz09",
-          "Profile_pic":"https://lh3.googleusercontent.com/a-/AOh14GjuFKjghMYe3kTykF1exzCrpYdkUO8yUcuYwFAX=s32-c"
-      },
-      {
-          "Code": "KCS-651",
-          "Name": "Software Engineering Lab",
-          "Link": "https://us04web.zoom.us/j/9313536859?pwd=NDdNV2xycGlBYUU3NVdsS3BmalU2Zz09",
-          "Profile_pic" :"http://srmcem.ac.in/img/CSFaculty/SandeepKumarDubey.jpg"
-      },
-      {
-          "Code": "KCS-652",
-          "Name": "Web Technology Lab",
-          "Link": "https://zoom.us/j/2471794873?pwd=cnk1elBXYUI3ZzdweGJmMEpxQzU1UT09",
-          "Profile_pic" :"https://lh3.googleusercontent.com/-XdUIqdMkCWA/AAAAAAAAAAI/AAAAAAAAAAA/4252rscbv5M/s32-c-fbw=1/photo.jpg"
-      },
-      {
-          "Code": "KCS-653",
-          "Name": "Computer Networks Lab",
-          "Link": "https://us04web.zoom.us/j/6752005635?pwd=NVkrSkF0RWNaOWxVWm9HTHIrNmlIQT09",
-          "Profile_pic" :"http://srmcem.ac.in/img/CSFaculty/SaurabhKumar.jpg"
-      },
-      {
-          "Code": "KCS-061",
-          "Name": "Big Data",
-          "Link": "https://zoom.us/j/5687381032?pwd=V0E4aXlkeXNBei9LTmR0S00vdnhxdz09",
-          "Profile_pic" :"https://lh3.googleusercontent.com/-XdUIqdMkCWA/AAAAAAAAAAI/AAAAAAAAAAA/4252rscbv5M/s32-c-fbw=1/photo.jpg"
-      },
-      {
-          "Code": "KCS-062",
-          "Name": "Image Processing",
-          "Link": "https://zoom.us/j/2575107643?pwd=V3lzQ1R1aFFaMDlqMHJZbXVwSG0rdz09",
-          "Profile_pic" :"https://lh3.googleusercontent.com/a-/AOh14GjzAyo7btr5VOWWlLfPBta-Vd2Vr87xakm9i8P8=s32-c"
-      },
-      {
-          "Code": "KCS-063",
-          "Name": "Data Compression",
-          "Link": "https://us04web.zoom.us/j/74194207679?pwd=YjJDdkJ2U1RyaUlXcjU5SFRhL0E2Zz09",
-          "Profile_pic" :"https://lh3.googleusercontent.com/-XdUIqdMkCWA/AAAAAAAAAAI/AAAAAAAAAAA/4252rscbv5M/s32-c-fbw=1/photo.jpg"
-      },
-      {
-          "Code": "KOE-064",
-          "Name": "OOP",
-          "Link": "https://zoom.us/j/2471794873?pwd=cnk1elBXYUI3ZzdweGJmMEpxQzU1UT09",
-          "Profile_pic" :"https://lh3.googleusercontent.com/-XdUIqdMkCWA/AAAAAAAAAAI/AAAAAAAAAAA/4252rscbv5M/s32-c-fbw=1/photo.jpg"
-      },
-      {
-          "Code": "KOE-066",
-          "Name": "GIS Remote Sensing",
-          "Link": "https://us05web.zoom.us/j/4027809720?pwd=S3phaXpPWmkvaHZzdTl5VDBDeTIzUT09",
-          "Profile_pic" :"https://lh3.googleusercontent.com/-XdUIqdMkCWA/AAAAAAAAAAI/AAAAAAAAAAA/4252rscbv5M/s32-c-fbw=1/photo.jpg"
-      },
-      {
-          "Code": "KOE-068",
-          "Name": "Software Project Management",
-          "Link": "https://us05web.zoom.us/j/6411570773?pwd=Z3dSazRoTi92UDZpUml3dGZ0cFpNZz09",
-          "Profile_pic" :"https://lh6.googleusercontent.com/-P4KzHlnI8UQ/AAAAAAAAAAI/AAAAAAAABws/mkltSmRBafI/s32-c/photo.jpg"
-      },
-      {
-          "Code": "KOE-069",
-          "Name": "Human Values",
-          "Link": "https://zoom.us/j/3102830669?pwd=RkNwOWFQR0RoTkxSdkRBNk01bGFudz09",
-          "Profile_pic" :"http://srmcem.ac.in/img/CSFaculty/jayant.jpg"
-      },
-      {
-          "Code": "KNC-601",
-          "Name": "Constitution of India",
-          "Link": "https://us02web.zoom.us/j/8490675393?pwd=Q1pNN3ltYVgrWU04eGRrRXBUZW1MUT09",
-          "Profile_pic" :"https://lh3.googleusercontent.com/-XdUIqdMkCWA/AAAAAAAAAAI/AAAAAAAAAAA/4252rscbv5M/s32-c-fbw=1/photo.jpg"
-      },
-      {
-          "Code": "SS-II",
-          "Name": "Soft Skills",
-          "Link": "https://us05web.zoom.us/j/4256820939?pwd=cEk2MWRNMzFQeGIyaUZhNWRibTJlUT09",
-          "Profile_pic" :"https://lh3.googleusercontent.com/-XdUIqdMkCWA/AAAAAAAAAAI/AAAAAAAAAAA/4252rscbv5M/s32-c-fbw=1/photo.jpg"
-      },
-      {
-          "Code": "AP-II",
-          "Name": "Aptitude",
-          "Link": "https://zoom.us/j/5131653943?pwd=TFZkMXEraWVsSlFRTkRMdjBoZW1kdz09",
-          "Profile_pic" :"https://lh3.googleusercontent.com/-XdUIqdMkCWA/AAAAAAAAAAI/AAAAAAAAAAA/4252rscbv5M/s32-c-fbw=1/photo.jpg"
-      }
-  ]
+    "status": "ok",
+    "total_class": 17,
+    "Class_List": [
+        {
+            "Code": "KCS-601 (CS-61/62)",
+            "Name": "Software Engineering",
+            "Link": "https://zoom.us/j/92838634943?pwd=UzI0RUlZOEI4SjByMFMrc1dMb0RIUT09",
+            "Profile_pic": "https://lh3.googleusercontent.com/a-/AOh14GiT9I-X64fB8NjRq2L_39DPAm3hwM-01gnmZfMs=s32-c"
+        },
+        {
+            "Code": "KCS-601 (CS-63/64)",
+            "Name": "Software Engineering",
+            "Link": "https://zoom.us/j/94014564945?pwd=Y0hIUHRuWkpWWktCMVc5alJIWTZJZz09",
+            "Profile_pic": "https://lh3.googleusercontent.com/a-/AOh14GiT9I-X64fB8NjRq2L_39DPAm3hwM-01gnmZfMs=s32-c"
+        },
+        {
+            "Code": "KCS-602",
+            "Name": "Web Technology",
+            "Link": "https://zoom.us/j/5913271434?pwd=SDlnVXdOVHVheGxnSEl2SW5QaWc4UT09",
+            "Profile_pic": "http://srmcem.ac.in/img/ITFaculty/Dishant.jpg"
+        },
+        {
+            "Code": "KCS-603",
+            "Name": "Computer Networks",
+            "Link": "https://zoom.us/j/2534821536?pwd=U0xoVmd4QjI0U2V3QlhZR3NtNS9aZz09",
+            "Profile_pic": "https://lh3.googleusercontent.com/a-/AOh14GjuFKjghMYe3kTykF1exzCrpYdkUO8yUcuYwFAX=s32-c"
+        },
+        {
+            "Code": "KCS-651 (CS 61/62)",
+            "Name": "Software Engineering Lab",
+            "Link": "https://us04web.zoom.us/j/2273977497?pwd=NnN5Mlo5VUpYUEczSjZzZXJpdWNrQT09",
+            "Profile_pic": "https://lh3.googleusercontent.com/a-/AOh14GjuFKjghMYe3kTykF1exzCrpYdkUO8yUcuYwFAX=s32-c"
+        },
+        {
+            "Code": "KCS-651 (CS 63)",
+            "Name": "Software Engineering Lab ",
+            "Link": "https://us04web.zoom.us/j/9313536859?pwd=NDdNV2xycGlBYUU3NVdsS3BmalU2Zz09",
+            "Profile_pic": "http://srmcem.ac.in/img/CSFaculty/SandeepKumarDubey.jpg"
+        },
+        {
+            "Code": "KCS-652",
+            "Name": "Web Technology Lab",
+            "Link": "https://zoom.us/j/2471794873?pwd=cnk1elBXYUI3ZzdweGJmMEpxQzU1UT09",
+            "Profile_pic": "https://lh3.googleusercontent.com/-XdUIqdMkCWA/AAAAAAAAAAI/AAAAAAAAAAA/4252rscbv5M/s32-c-fbw=1/photo.jpg"
+        },
+        {
+            "Code": "KCS-653",
+            "Name": "Computer Networks Lab",
+            "Link": "https://us04web.zoom.us/j/6752005635?pwd=NVkrSkF0RWNaOWxVWm9HTHIrNmlIQT09",
+            "Profile_pic": "http://srmcem.ac.in/img/CSFaculty/SaurabhKumar.jpg"
+        },
+        {
+            "Code": "KCS-061",
+            "Name": "Big Data",
+            "Link": "https://zoom.us/j/5687381032?pwd=V0E4aXlkeXNBei9LTmR0S00vdnhxdz09",
+            "Profile_pic": "https://lh3.googleusercontent.com/-XdUIqdMkCWA/AAAAAAAAAAI/AAAAAAAAAAA/4252rscbv5M/s32-c-fbw=1/photo.jpg"
+        },
+        {
+            "Code": "KCS-062",
+            "Name": "Image Processing",
+            "Link": "https://zoom.us/j/2575107643?pwd=V3lzQ1R1aFFaMDlqMHJZbXVwSG0rdz09",
+            "Profile_pic": "https://lh3.googleusercontent.com/a-/AOh14GjzAyo7btr5VOWWlLfPBta-Vd2Vr87xakm9i8P8=s32-c"
+        },
+        {
+            "Code": "KCS-063",
+            "Name": "Data Compression",
+            "Link": "https://us04web.zoom.us/j/74194207679?pwd=YjJDdkJ2U1RyaUlXcjU5SFRhL0E2Zz09",
+            "Profile_pic": "https://lh3.googleusercontent.com/-XdUIqdMkCWA/AAAAAAAAAAI/AAAAAAAAAAA/4252rscbv5M/s32-c-fbw=1/photo.jpg"
+        },
+        {
+            "Code": "KOE-064",
+            "Name": "OOP",
+            "Link": "https://zoom.us/j/2471794873?pwd=cnk1elBXYUI3ZzdweGJmMEpxQzU1UT09",
+            "Profile_pic": "https://lh3.googleusercontent.com/-XdUIqdMkCWA/AAAAAAAAAAI/AAAAAAAAAAA/4252rscbv5M/s32-c-fbw=1/photo.jpg"
+        },
+        {
+            "Code": "KOE-066",
+            "Name": "GIS Remote Sensing",
+            "Link": "https://us05web.zoom.us/j/4027809720?pwd=S3phaXpPWmkvaHZzdTl5VDBDeTIzUT09",
+            "Profile_pic": "https://lh3.googleusercontent.com/-XdUIqdMkCWA/AAAAAAAAAAI/AAAAAAAAAAA/4252rscbv5M/s32-c-fbw=1/photo.jpg"
+        },
+        {
+            "Code": "KOE-068",
+            "Name": "Software Project Management",
+            "Link": "https://us05web.zoom.us/j/6411570773?pwd=Z3dSazRoTi92UDZpUml3dGZ0cFpNZz09",
+            "Profile_pic": "https://lh6.googleusercontent.com/-P4KzHlnI8UQ/AAAAAAAAAAI/AAAAAAAABws/mkltSmRBafI/s32-c/photo.jpg"
+        },
+        {
+            "Code": "KOE-069",
+            "Name": "Human Values",
+            "Link": "https://zoom.us/j/3102830669?pwd=RkNwOWFQR0RoTkxSdkRBNk01bGFudz09",
+            "Profile_pic": "http://srmcem.ac.in/img/CSFaculty/jayant.jpg"
+        },
+        {
+            "Code": "KNC-601",
+            "Name": "Constitution of India",
+            "Link": "https://us02web.zoom.us/j/8490675393?pwd=Q1pNN3ltYVgrWU04eGRrRXBUZW1MUT09",
+            "Profile_pic": "https://lh3.googleusercontent.com/-XdUIqdMkCWA/AAAAAAAAAAI/AAAAAAAAAAA/4252rscbv5M/s32-c-fbw=1/photo.jpg"
+        },
+        {
+            "Code": "SS-II",
+            "Name": "Soft Skills",
+            "Link": "https://us05web.zoom.us/j/4256820939?pwd=cEk2MWRNMzFQeGIyaUZhNWRibTJlUT09",
+            "Profile_pic": "https://lh3.googleusercontent.com/-XdUIqdMkCWA/AAAAAAAAAAI/AAAAAAAAAAA/4252rscbv5M/s32-c-fbw=1/photo.jpg"
+        },
+        {
+            "Code": "AP-II",
+            "Name": "Aptitude",
+            "Link": "https://zoom.us/j/5131653943?pwd=TFZkMXEraWVsSlFRTkRMdjBoZW1kdz09",
+            "Profile_pic": "https://lh3.googleusercontent.com/-XdUIqdMkCWA/AAAAAAAAAAI/AAAAAAAAAAA/4252rscbv5M/s32-c-fbw=1/photo.jpg"
+        }
+    ]
 }
